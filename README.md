@@ -1,0 +1,3 @@
+# Falar v1.0
+
+## Aplicativo com objetivo de facilita a leitura...
